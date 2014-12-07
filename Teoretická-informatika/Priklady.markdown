@@ -1,0 +1,1 @@
+[Priklady by Matus Ferko](https://docs.google.com/document/d/1ZSxYxX0RzRWOwcZTTE2TsQoQfpEkhGF3DbbHzTZ5ntU/edit)

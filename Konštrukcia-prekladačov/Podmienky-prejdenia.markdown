@@ -1,0 +1,8 @@
+- 40 Zapocet
+  - Projekt za 20 bodov
+  - Pisomky 20 bodov
+  - 21 minimum
+- 60 Skuska
+  - Teoreticka ustna skuska
+  - Prakticke riesenie
+  - Aspon 31 zo skusky!

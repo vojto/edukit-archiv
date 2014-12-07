@@ -1,0 +1,1 @@
+chcel by som sa spytat s coho sa ucit na skusku ake screeny treba zbehnut aby som ju zvladol ?:D:D

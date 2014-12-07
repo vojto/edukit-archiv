@@ -1,0 +1,1 @@
+<p>Odporúčam, ak chce niekto pri zadaní mať upload najlepších časov do databázy tak na db4free.net. Nájsť rozumný databázový server na SK/CZ ktorý by nemal obmedzenia (napr. na localhost) tak to je dosť o hubu.</p><br />

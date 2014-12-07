@@ -1,0 +1,1 @@
+Ing. Dominik Lakatoš - cvika uplne v pohode, odporucam (ani so zadanim nieje problem)<br>Ing. Marek Novak super, v pohode :)<br><p>doc. Ing. Jaroslav Poruban, PhD. neviem aky je na cvikach, ale prednasky ma vraj skvele :)<br>doc. Ing. Ladislav Samuelis, Csc., nedobre, radsej sa mu vyhnut</p>

@@ -1,0 +1,1 @@
+Prišiel mi mail, že 27.10. nebude prednáška.

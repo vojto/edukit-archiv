@@ -1,0 +1,1 @@
+<h1>Prednasajuci</h1><p>Ing. Peter Vaclavik, PhD.</p><h1>Cviciaci</h1><ul><li>Ing. Tomas Poklemba (Utorok poobede)</li><li>Ing. Peter Vaclavik, PhD. (Piatok rano)</li></ul><br />

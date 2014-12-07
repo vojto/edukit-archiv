@@ -1,0 +1,1 @@
+<a href="http://openetherpad.org/jl2e6lENK5">Subor, kde mozete pridavat vsetky nejasnosti</a>

@@ -1,0 +1,1 @@
+Ked si toto prejdete nemate problem :) plus jedno pdf s teoriou :D

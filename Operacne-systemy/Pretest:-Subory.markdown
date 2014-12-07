@@ -1,0 +1,1 @@
+<h1>Warning 01: Nespamujte tu prosim vsetkymi odpovedami iba takymi co su nejasne, alebo sa niekto pytal</h1><h1>Warning 02: Ak nieco neviete napiste do komentarov, ak chcete niekomu odpovedat, upravte stranku</h1><p>Otazka 84: fd<br />Otazka 90: const char *buf<br />Otazka 95: Ukazovateľ aktuálnej pozície v súbore<br />Otazka 106: fildes</p><br />

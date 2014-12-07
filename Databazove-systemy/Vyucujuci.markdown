@@ -1,0 +1,1 @@
+<p>Ing. Henrieta Telepovska, PhD. velmi prisna<br />Ing. Pavol Macko super, pohodak :) // zatial nie je v rozvrhu<br />Ing. Frantisek Hrozek, radsej si ho nedat, velmi na neho nadavaju

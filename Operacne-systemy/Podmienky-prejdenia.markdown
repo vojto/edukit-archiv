@@ -1,0 +1,1 @@
+<p>Hodnotenie: 40 cvicenia, 60 skuska</p><hr /><p>Body za cvicenia sa tiez pocitaju po percentach 

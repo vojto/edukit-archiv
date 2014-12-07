@@ -1,0 +1,1 @@
+<h1>Ako sa prihlasit<br></h1><p>Databaza: orclbo2<br>Meno: xx123yyy<br>Heslo: (to iste co meno!)<br>Hostname: bodva.fei.tuke.sk</p><pre>Source code bitches</pre><p><br></p><blockquote>bla bla bla citaci</blockquote>

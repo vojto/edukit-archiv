@@ -1,0 +1,1 @@
+<p><a href="https://moodle.fei.tuke.sk/file.php/9/osnovy/dbs_10_11_ls_Oracle.pdf">PDF</a></p><br />

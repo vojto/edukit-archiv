@@ -1,0 +1,1 @@
+vie mi niekto povedat ako si mozem zmenit heslo na dslabe??<div><br></div><div>napis:</div><div><br></div><pre>passwd</pre><div><br></div><div>bude od teba chciet povodne, potom nove dvakrat</div><div><br></div><div>predtym to neslo, ale uz to fixli</div>

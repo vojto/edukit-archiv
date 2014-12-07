@@ -1,0 +1,1 @@
+Nema niekto nahodou 2 zadanie vypracovane z BvI alebo kde by som to mohol najst any other idea?

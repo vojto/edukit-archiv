@@ -1,0 +1,1 @@
+<p>30 bodov zapocet<br />70 bodov skuska</p><br />

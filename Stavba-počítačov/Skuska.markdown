@@ -1,0 +1,2 @@
+* Z FB:
+Uplne staci vediet, ale poriadne, hlavne obrazky, rovnice, funkcie, popisy jednotlivych veci (schemy su zbytocne). Skuska 50 minut, 40 otazok, vsetky otazky navlas rovnake pre vsetkych, iba poprehadzovane. Ziadne dopisovacky ani VHDL kod, iba cista teoria. Screeny urobit takmer nemozne, pristup len k moodlu (a mozno aj ostatnym tuke veciam, tazko povedat). Na konci moznost pozriet si spravne odpovede okamzite po odoslani formulara, ale kuknes susedovi na monitor, okamzite koncis. Boli dvaja, striehli vsade, jeden vpredu, druhy vzadu.

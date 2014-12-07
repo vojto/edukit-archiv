@@ -1,0 +1,8 @@
+1.týždeň – nahlásenie zloženia tímu a témy – emailom cvičiacemu do konca týždňa
+3.týždeň – prieskum trhu, zhodnotenie existujúcich riešení ak existujú (dokument max. 3 strany), nielen slovenské riešenia
+5.týždeň – detailné naštudovanie domény, požiadavky na aplikáciu, konceptuálny údajový model (štruktúrovaný dokument, diagram pre opis údajového modelu)
+7.týždeň – detailný návrh aplikácie (štruktúrované dokumenty, diagramy), prototyp používateľského rozhrania
+9.týždeň – rozhrania objektov, údajové objekty (zdrojové kódy)
+11.týždeň – prototyp aplikácie
+13.týždeň – prezentácia a obhajoba riešenia (prezentácia v trvaní max. 8 minút, ktorá
+má presvedčiť zákazníka, že prezentovaný produkt spĺňa jeho očakávania)
